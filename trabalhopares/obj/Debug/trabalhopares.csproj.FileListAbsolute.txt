@@ -1,0 +1,9 @@
+C:\Users\Gonçalo\source\repos\trabalhopares\bin\Debug\trabalhopares.exe.config
+C:\Users\Gonçalo\source\repos\trabalhopares\bin\Debug\trabalhopares.exe
+C:\Users\Gonçalo\source\repos\trabalhopares\bin\Debug\trabalhopares.pdb
+C:\Users\Gonçalo\source\repos\trabalhopares\obj\Debug\trabalhopares.csprojAssemblyReference.cache
+C:\Users\Gonçalo\source\repos\trabalhopares\obj\Debug\trabalhopares.Properties.Resources.resources
+C:\Users\Gonçalo\source\repos\trabalhopares\obj\Debug\trabalhopares.csproj.GenerateResource.cache
+C:\Users\Gonçalo\source\repos\trabalhopares\obj\Debug\trabalhopares.exe
+C:\Users\Gonçalo\source\repos\trabalhopares\obj\Debug\trabalhopares.pdb
+C:\Users\Gonçalo\source\repos\trabalhopares\obj\Debug\trabalhopares.Form1.resources
